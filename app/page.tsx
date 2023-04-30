@@ -1,8 +1,7 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
+'use client'
 import {BoltIcon, ExclamationTriangleIcon, SunIcon} from '@heroicons/react/24/outline';
 
-const inter = Inter({ subsets: ['latin'] })
+
 
 export default function Home() {
   return (
