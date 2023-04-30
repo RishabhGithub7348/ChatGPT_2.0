@@ -25,14 +25,14 @@ export default function Home() {
             <h2>Examples</h2>
           </div>
           <div className="space-y-2">
-            <p className="infoText">
-              "Explain quantum computing in simple terms"
+             <p className="infoText">
+              May occasionally generate incorrect information
             </p>
             <p className="infoText">
-              Got any creative ideas for a 10 year old’s birthday?
+              May occasionally produce harmful instructions or biased content
             </p>
             <p className="infoText">
-              How do I make an HTTP request in Javascript?
+              Limited knowledge of world and events after 2021
             </p>
           </div>
         </div>
