@@ -1,6 +1,6 @@
 import Sidebar from '@/components/Sidebar'
 import './globals.css'
-import { Inter } from 'next/font/google'
+
 import { SessionProvider } from '@/components/SessionProvider'
 import {getServerSession} from 'next-auth';
 import { authOptions } from '@/pages/api/auth/[...nextauth]';
@@ -8,7 +8,7 @@ import Login from '@/components/Login';
 import ClientProvider from '@/components/ClientProvider';
 
 
-const inter = Inter({ subsets: ['latin'] })
+
 
 export const metadata = {
   title: 'Create Next App',
