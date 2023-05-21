@@ -1,4 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![chat-gpt-2-0-nine vercel app_](https://github.com/RishabhGithub7348/ChatGPT_2.0/assets/75687649/f494c7ff-7e54-47c8-be32-9c924ee115e7)
+
+![accounts google com_o_oauth2_v2_auth_client_id=176991964651-cfod3jo6eb52uf2cljcrqu8qm9pln21g apps googleusercontent com scope=openid%20email%20profile response_type=code redirect_uri=https%3A%2F%2Fchat-g](https://github.com/RishabhGithub7348/ChatGPT_2.0/assets/75687649/2b5681f7-f5f2-44db-8af2-a59788f32fe0)
+
+![chat-gpt-2-0-nine vercel app_ (1)](https://github.com/RishabhGithub7348/ChatGPT_2.0/assets/75687649/bbc91f21-3f01-469b-8b99-3726efbf691b)
+
+![chat-gpt-2-0-nine vercel app_ (2)](https://github.com/RishabhGithub7348/ChatGPT_2.0/assets/75687649/b8131483-2b94-47cd-8fea-120ffa8a949f)
+
+![chat-gpt-2-0-nine vercel app_ (3)](https://github.com/RishabhGithub7348/ChatGPT_2.0/assets/75687649/08df7c91-726c-42dd-9a3a-106456741b65)
+
 
 ## Getting Started
 
